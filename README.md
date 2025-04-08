@@ -1,4 +1,4 @@
-#Portmaster.pak for NextUI
+# Portmaster.pak for NextUI
 
 This is a first draft, I just took the https://github.com/ryanmsartor/TrimUI-Brick-and-Smart-Pro-Custom-MinUI-Paks files and removed everything that isn't needed for Portmaster, and applied the sound fix in the launch.sh file.
 
