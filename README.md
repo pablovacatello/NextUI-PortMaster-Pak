@@ -6,8 +6,8 @@ There is a lot of work that could be done to streamline this pak: remove the dup
 
 ## Steps to install Portmaster.pak on NextUI
 1) Install TRIMUI_EX per the instructions from its repo (https://github.com/kloptops/TRIMUI_EX)
-2) Install NextUI as normal and after finished, unzip the contents of the provided .zip file to the root of the sd card (if you already had nextui installed into an sd card, you can just unzip the file there, no need to reinstall)
-3) Make sure you are connected to WiFi (install the WiFi pak from @josegonzalez if needed: https://github.com/josegonzalez/minui-wifi-pak)
+2) Install NextUI as normal (use a new SD card or just format the one with TRIMUI_EX) and after finished, unzip the contents of the provided .zip file to the root of the sd card (if you already had NextUI installed into an sd card, you can just unzip the file there, no need to reinstall)
+3) Make sure you are connected to WiFi (from NextUI 3.1.0 onwards, WiFi support is native to the OS, no need to install anything extra)
 4) Run Tools/Portmaster, it'll offer to update to the newest version, do so
 5) Install a ready to run game to test Portmaster (I like Apotris or Open Tyrian, just make sure it's a game that is known to work on Trimui)
 6) Run the game in PORTS/Your Game (the first time you launch a Portmaster game it'll stay a minute or so in a black screen, it's setting up some stuff I think, after the first time games launch quickly
