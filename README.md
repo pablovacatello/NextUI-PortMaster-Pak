@@ -1,3 +1,8 @@
+> [!CAUTION]
+> This repository was a stopgap measure while a better Portmaster pak was created. Luckily that time has arrived: the excellent pak by @ben16w, which you can find at https://github.com/ben16w/minui-portmaster, has
+> integrated all needed files and does not need you to install TRIMUI_EX first on your system. I heartily recommend you to use that pak instead of this one, which will remain here for archival purposes.
+
+
 # Portmaster.pak for NextUI
 
 This is a first draft, I just took the https://github.com/ryanmsartor/TrimUI-Brick-and-Smart-Pro-Custom-MinUI-Paks files and removed everything that isn't needed for Portmaster, and applied the sound fix in the launch.sh file.
